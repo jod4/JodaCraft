@@ -1,5 +1,7 @@
 #Resources
 
+List of all resources intended to be used for inter-mod recipes (this is very much a WIP).
+
 ##Actually Additions
 
 ###World Gen

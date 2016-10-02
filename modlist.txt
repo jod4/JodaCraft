@@ -10,6 +10,7 @@ BloodMagic
 Bookshelf
 Botania
 BrandonsCore
+Bullseye
 ChestTransporter
 Chisel
 chiselsandbits
@@ -45,6 +46,7 @@ NetherMetals
 OpenComputers
 OreDictionaryConverter
 pressure
+ProgressiveAutomation
 Psi
 quantumflux
 Quark

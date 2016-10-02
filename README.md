@@ -15,7 +15,7 @@ The main goal of JodaPack is to create a classic "kitchen sink" mod pack, with a
 
 ## Mod List
 
-[Here's a list](modlist.txt) of all the mods included to this pack.
+[Here's a list](modlist.txt) of all the mods included in this pack.
 
 ## License
 
