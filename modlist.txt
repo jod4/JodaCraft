@@ -14,17 +14,19 @@ Bullseye
 ChestTransporter
 Chisel
 chiselsandbits
+Controlling // to be added!
 CookingForBlockheads
 CraftingTweaks
 CraftTweaker
 deepresonance
-Draconic
+DraconicEvolution
 ElecCore
 EnderCore
 EnderIO
 endertanks
 enderthing
 EnderZoo
+ExtraRails
 extrautils2
 FastLeafDecay
 generators
@@ -57,9 +59,11 @@ rftools
 rftoolsdim
 roots
 shetiphiancore
+SimplyCaterpillar
 SoulShards
 SpiceOfLife
 Substratum
+TopAddons
 Waila
 WailaHarvestability
 Wawla
