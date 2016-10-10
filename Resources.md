@@ -2,23 +2,6 @@
 
 List of all resources intended to be used for inter-mod recipes (this is very much a WIP).
 
-##Actually Additions
-
-###World Gen
-- Black Quartz
-
-###Crafting Table
-- Basic/Advanced Coil
-- Battery (5 tiers)
-
-###Atomic Reconstructor (Empowerer)
-- Restonia
-- Palis
-- Diamatine
-- Void Crystal
-- Emeradic
-- Enori
-
 ##Botania
 
 ###Mana Pool
