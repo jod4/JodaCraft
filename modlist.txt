@@ -51,6 +51,7 @@ MouseTweaks
 NetherMetals
 OpenComputers
 OreDictionaryConverter
+OreSpawn
 pressure
 Psi
 quantumflux
@@ -67,7 +68,7 @@ shetiphiancore
 SimplyCaterpillar
 SoulShardsTOW
 SpiceOfLife
-Substratum
+Tesla
 Waila
 WailaHarvestability
 Wawla
