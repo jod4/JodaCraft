@@ -1,0 +1,113 @@
+{
+  "items": [],
+  "blocks": [
+    {
+      "id": "rftools:dimensional_shard_ore",
+      "meta": 0,
+      "focusColor": "white",
+      "weight": 4
+    }
+  ],
+  "oreDict": [
+    {
+      "oreName": "oreCoal",
+      "focusColor": "black",
+      "weight": 40
+    },
+    {
+      "oreName": "oreIron",
+      "focusColor": "white",
+      "weight": 32
+    },
+    {
+      "oreName": "oreQuartz",
+      "focusColor": "white",
+      "weight": 20
+    },
+    {
+      "oreName": "oreRedstone",
+      "focusColor": "red",
+      "weight": 20
+    },
+    {
+      "oreName": "oreLapis",
+      "focusColor": "blue",
+      "weight": 16
+    },
+    {
+      "oreName": "oreGold",
+      "focusColor": "yellow",
+      "weight": 14
+    },
+    {
+      "oreName": "oreDiamond",
+      "focusColor": "cyan",
+      "weight": 11
+    },
+    {
+      "oreName": "oreEmerald",
+      "focusColor": "lime",
+      "weight": 5
+    },
+    {
+      "oreName": "glowstone",
+      "focusColor": "yellow",
+      "weight": 7
+    },
+    {
+      "oreName": "oreCopper",
+      "focusColor": "orange",
+      "weight": 26
+    },
+    {
+      "oreName": "oreTin",
+      "focusColor": "gray",
+      "weight": 26
+    },
+    {
+      "oreName": "oreSilver",
+      "focusColor": "light_gray",
+      "weight": 20
+    },
+    {
+      "oreName": "oreLead",
+      "focusColor": "purple",
+      "weight": 22
+    },
+    {
+      "oreName": "oreAluminum",
+      "focusColor": "white",
+      "weight": 20
+    },
+    {
+      "oreName": "oreUranium",
+      "focusColor": "green",
+      "weight": 6
+    },
+    {
+      "oreName": "shardLonsdaleite",
+      "focusColor": "black",
+      "weight": 6
+    },
+    {
+      "oreName": "oreNickel",
+      "focusColor": "gray",
+      "weight": 9
+    },
+    {
+      "oreName": "oreDraconium",
+      "focusColor": "purple",
+      "weight": 3
+    },
+    {
+      "oreName": "oreResonating",
+      "focusColor": "brown",
+      "weight": 6
+    },
+    {
+      "oreName": "oreZinc",
+      "focusColor": "pink",
+      "weight": 9
+    }
+  ]
+}
